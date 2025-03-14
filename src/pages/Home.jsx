@@ -1,6 +1,6 @@
 import Header from '../components/Header' 
 import Detail from '../components/Detail'
-import Footer from ' ../components/Footer'
+import Footer from '../components/Footer'
 function Home() {
 return (
 <div className="container mx-auto main-layout">
